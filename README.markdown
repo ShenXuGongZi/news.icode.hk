@@ -1,3 +1,5 @@
+news.icode.hk 修改版 请勿直接使用。作为备份用
+
 Anarki: a publicly modifiable fork of PG's and RTM's Arc Lisp (http://www.paulgraham.com/arc.html)
 
 To run, install Racket from http://racket-lang.org, then:
