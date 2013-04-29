@@ -1,0 +1,662 @@
+1367165084 36.40.220.106 27 12  get  nil nil
+1367165084 36.40.220.106 335 1  get news.css nil nil
+1367165085 36.40.220.106 15 1  get arc.png nil nil
+1367165085 36.40.220.106 17 1  get s.gif nil nil
+1367165085 36.40.220.106 11 1  get  nil nil
+1367165088 36.40.220.106 21 7  get x  nil
+1367165089 36.40.220.106 17 1  get favicon.ico nil nil
+1367165094 36.40.220.106 55 45  post y nil nil
+1367165094 36.40.220.106 29 5  get x  nil
+1367165095 36.40.220.106 14 0  get favicon.ico nil nil
+1367165114 36.40.220.106 45 55  post y nil nil
+1367165114 36.40.220.106 22 5  get news nil ((user TyL7Teqc))
+1367165115 36.40.220.106 30 1  get arc.png nil ((user TyL7Teqc))
+1367165115 36.40.220.106 17 0  get s.gif nil ((user TyL7Teqc))
+1367165116 36.40.220.106 18 0  get news nil nil
+1367165120 36.40.220.106 4144 3 *** get newcomments nil ((user TyL7Teqc))
+1367165121 36.40.220.106 33 0  get arc.png nil ((user TyL7Teqc))
+1367165121 36.40.220.106 42 1  get s.gif nil ((user TyL7Teqc))
+1367165121 36.40.220.106 11 3  get newcomments nil nil
+1367165122 36.40.220.106 51 2  get welcome nil ((user TyL7Teqc))
+1367165122 36.40.220.106 12 1  get favicon.ico nil nil
+1367165124 36.40.220.106 46 0  get newcomments nil nil
+1367165125 36.40.220.106 1161 15 *** get news nil ((user TyL7Teqc))
+1367165125 36.40.220.106 1447 4 *** get arc.png nil ((user TyL7Teqc))
+1367165125 36.40.220.106 1476 0 *** get s.gif nil ((user TyL7Teqc))
+1367165126 36.40.220.106 648 1  get news nil nil
+1367166412 36.40.220.106 15 8  get  nil nil
+1367166412 36.40.220.106 14 1  get news.css nil nil
+1367166413 36.40.220.106 17 2  get arc.png nil nil
+1367166413 36.40.220.106 16 1  get s.gif nil nil
+1367166413 36.40.220.106 21 2  get  nil nil
+1367166415 36.40.220.106 9 1  get  nil nil
+1367166415 36.40.220.106 10 1  get news.css nil nil
+1367166415 36.40.220.106 41 0  get arc.png nil nil
+1367166415 36.40.220.106 13 0  get s.gif nil nil
+1367166415 36.40.220.106 8 0  get  nil nil
+1367166899 36.40.220.106 17 8  get  nil nil
+1367166900 36.40.220.106 16 1  get news.css nil nil
+1367166900 36.40.220.106 14 2  get arc.png nil nil
+1367166900 36.40.220.106 18 1  get s.gif nil nil
+1367166901 36.40.220.106 8 1  get  nil nil
+1367166909 36.40.220.106 10 2  get newcomments nil nil
+1367166909 36.40.220.106 8 0  get s.gif nil nil
+1367166909 36.40.220.106 9 1  get arc.png nil nil
+1367166910 36.40.220.106 20 2  get newcomments nil nil
+1367166912 36.40.220.106 13 5  get leaders nil nil
+1367166912 36.40.220.106 12 0  get arc.png nil nil
+1367166912 36.40.220.106 12 1  get s.gif nil nil
+1367166914 36.40.220.106 13 3  get news nil nil
+1367166914 36.40.220.106 9 0  get leaders nil nil
+1367166914 36.40.220.106 14 0  get arc.png nil nil
+1367166914 36.40.220.106 13 1  get s.gif nil nil
+1367166914 36.40.220.106 12 1  get news nil nil
+1367167136 36.40.220.106 13 2  get news nil nil
+1367167136 36.40.220.106 43 1  get arc.png nil nil
+1367167136 36.40.220.106 23 1  get s.gif nil nil
+1367167137 36.40.220.106 9 0  get news nil nil
+1367167175 36.40.220.106 13 7  get news nil nil
+1367167175 36.40.220.106 10 1  get news.css nil nil
+1367167176 36.40.220.106 25 2  get arc.png nil nil
+1367167176 36.40.220.106 22 1  get s.gif nil nil
+1367167176 36.40.220.106 8 1  get news nil nil
+1367167179 36.40.220.106 38 1  get news nil nil
+1367167180 36.40.220.106 12 1  get arc.png nil nil
+1367167180 36.40.220.106 8 1  get s.gif nil nil
+1367167180 36.40.220.106 9 1  get news nil nil
+1367167450 36.40.220.106 16 9  get news nil nil
+1367167450 36.40.220.106 11 1  get news.css nil nil
+1367167450 36.40.220.106 25 21  get arc.png nil nil
+1367167450 36.40.220.106 38 0  get s.gif nil nil
+1367167451 36.40.220.106 7 1  get news nil nil
+1367167685 36.40.220.106 10 4  get newcomments nil nil
+1367167685 36.40.220.106 13 0  get s.gif nil nil
+1367167685 36.40.220.106 7 1  get arc.png nil nil
+1367167686 36.40.220.106 14 1  get newcomments nil nil
+1367167833 36.40.220.106 46 3  get x  nil
+1367167851 36.40.220.106 20 2  get x  nil
+1367167853 36.40.220.106 12 0  get x  nil
+1367167855 36.40.220.106 57 8  get  nil nil
+1367167855 36.40.220.106 10 1  get arc.png nil nil
+1367167855 36.40.220.106 14 0  get s.gif nil nil
+1367167856 36.40.220.106 10 1  get  nil nil
+1367167858 36.40.220.106 22 1  get  nil nil
+1367167858 36.40.220.106 15 1  get news.css nil nil
+1367167859 36.40.220.106 25 1  get arc.png nil nil
+1367167859 36.40.220.106 29 1  get s.gif nil nil
+1367167859 36.40.220.106 8 1  get  nil nil
+1367167861 36.40.220.106 16 11  get submit nil nil
+1367168056 36.40.220.106 12 2  get  nil nil
+1367168056 36.40.220.106 14 0  get arc.png nil nil
+1367168056 36.40.220.106 13 0  get s.gif nil nil
+1367168057 36.40.220.106 20 2  get  nil nil
+1367168117 36.40.220.106 27 1  get news nil nil
+1367168117 36.40.220.106 9 0  get arc.png nil nil
+1367168117 36.40.220.106 10 1  get s.gif nil nil
+1367168118 36.40.220.106 22 11  get news nil nil
+1367168119 36.40.220.106 12 8  get x  nil
+1367168123 36.40.220.106 19 27  post y nil nil
+1367168123 36.40.220.106 13 10  get news nil ((user TyL7Teqc))
+1367168123 36.40.220.106 12 0  get arc.png nil ((user TyL7Teqc))
+1367168123 36.40.220.106 11 0  get s.gif nil ((user TyL7Teqc))
+1367168124 36.40.220.106 14 2  get news nil nil
+1367168128 36.40.220.106 23 13  get threads (id liuhang0077) ((user TyL7Teqc))
+1367168128 36.40.220.106 36 0  get arc.png nil ((user TyL7Teqc))
+1367168128 36.40.220.106 31 1  get s.gif nil ((user TyL7Teqc))
+1367168128 36.40.220.106 12 10  get threads (id liuhang0077) nil
+1367168130 36.40.220.106 13 13  get leaders nil ((user TyL7Teqc))
+1367168130 36.40.220.106 8 1  get arc.png nil ((user TyL7Teqc))
+1367168130 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367168130 36.40.220.106 14 4  get leaders nil nil
+1367168134 36.40.220.106 10 10  get submit nil ((user TyL7Teqc))
+1367168134 36.40.220.106 21 1  get arc.png nil ((user TyL7Teqc))
+1367168134 36.40.220.106 10 8  get submit nil nil
+1367168270 36.40.220.106 25 35  post r nil ((user TyL7Teqc))
+1367168271 36.40.220.106 50 37  get newest nil ((user TyL7Teqc))
+1367168271 36.40.220.106 16 0  get s.gif nil ((user TyL7Teqc))
+1367168271 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367168271 36.40.220.106 7 3  get newest nil nil
+1367168284 36.40.220.106 15 5  get  nil nil
+1367168284 36.40.220.106 12 1  get news.css nil nil
+1367168285 36.40.220.106 8 0  get arc.png nil nil
+1367168285 36.40.220.106 7 1  get s.gif nil nil
+1367168285 36.40.220.106 8 0  get grayarrow.gif nil nil
+1367168285 36.40.220.106 12 1  get  nil nil
+1367168301 36.40.220.106 14 21  get newsadmin nil ((user TyL7Teqc))
+1367168302 36.40.220.106 12 1  get arc.png nil ((user TyL7Teqc))
+1367168302 36.40.220.106 14 0  get s.gif nil ((user TyL7Teqc))
+1367168302 36.40.220.106 8 37  get newsadmin nil nil
+1367168316 36.40.220.106 13 9  get threads (id liuhang0077) ((user TyL7Teqc))
+1367168316 36.40.220.106 12 0  get arc.png nil ((user TyL7Teqc))
+1367168316 36.40.220.106 9 0  get s.gif nil ((user TyL7Teqc))
+1367168317 36.40.220.106 15 9  get threads (id liuhang0077) nil
+1367168318 36.40.220.106 10 18  get news nil ((user TyL7Teqc))
+1367168319 36.40.220.106 9 1  get s.gif nil ((user TyL7Teqc))
+1367168319 36.40.220.106 22 14  get arc.png nil ((user TyL7Teqc))
+1367168319 36.40.220.106 9 1  get news nil nil
+1367168328 36.40.220.106 19 22  get news nil ((user TyL7Teqc))
+1367168328 36.40.220.106 10 0  get arc.png nil ((user TyL7Teqc))
+1367168328 36.40.220.106 9 0  get s.gif nil ((user TyL7Teqc))
+1367168329 36.40.220.106 8 1  get news nil nil
+1367168338 36.40.220.106 41 19  get news nil ((user TyL7Teqc))
+1367168339 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367168339 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367168339 36.40.220.106 7 0  get news nil nil
+1367168476 36.40.220.106 10 34  get submit nil ((user TyL7Teqc))
+1367168477 36.40.220.106 23 1  get arc.png nil ((user TyL7Teqc))
+1367168477 36.40.220.106 12 11  get submit nil nil
+1367168494 36.40.220.106 23 75  post r nil ((user TyL7Teqc))
+1367168495 36.40.220.106 15 23  get newest nil ((user TyL7Teqc))
+1367168495 36.40.220.106 11 0  get arc.png nil ((user TyL7Teqc))
+1367168495 36.40.220.106 23 0  get s.gif nil ((user TyL7Teqc))
+1367168496 36.40.220.106 8 5  get newest nil nil
+1367168545 36.40.220.106 15 8  get submit nil ((user TyL7Teqc))
+1367168545 36.40.220.106 23 0  get arc.png nil ((user TyL7Teqc))
+1367168545 36.40.220.106 16 10  get submit nil nil
+1367168547 36.40.220.106 31 4  post r nil ((user TyL7Teqc))
+1367168547 36.40.220.106 24 9  get x  ((user TyL7Teqc))
+1367168547 36.40.220.106 15 16  get arc.png nil ((user TyL7Teqc))
+1367168548 36.40.220.106 13 14  get x  nil
+1367168565 36.40.220.106 31 57  post r nil ((user TyL7Teqc))
+1367168565 36.40.220.106 14 35  get newest nil ((user TyL7Teqc))
+1367168566 36.40.220.106 19 1  get arc.png nil ((user TyL7Teqc))
+1367168566 36.40.220.106 18 1  get s.gif nil ((user TyL7Teqc))
+1367168566 36.40.220.106 9 5  get newest nil nil
+1367168721 36.40.220.106 14 9  get submit nil ((user TyL7Teqc))
+1367168721 36.40.220.106 13 0  get arc.png nil ((user TyL7Teqc))
+1367168722 36.40.220.106 12 10  get submit nil nil
+1367168735 36.40.220.106 40 19  post r nil ((user TyL7Teqc))
+1367168736 36.40.220.106 26 77  get newest nil ((user TyL7Teqc))
+1367168736 36.40.220.106 12 0  get arc.png nil ((user TyL7Teqc))
+1367168736 36.40.220.106 10 1  get s.gif nil ((user TyL7Teqc))
+1367168737 36.40.220.106 10 8  get newest nil nil
+1367168791 36.40.220.106 15 8  get submit nil ((user TyL7Teqc))
+1367168792 36.40.220.106 14 1  get arc.png nil ((user TyL7Teqc))
+1367168792 36.40.220.106 20 12  get submit nil nil
+1367168917 36.40.220.106 15 1  get grayarrow.gif nil ((user TyL7Teqc))
+1367168917 36.40.220.106 14 6  get newest nil nil
+1367168947 36.40.220.106 13 8  get submit nil ((user TyL7Teqc))
+1367168947 36.40.220.106 9 0  get arc.png nil ((user TyL7Teqc))
+1367168948 36.40.220.106 20 8  get submit nil nil
+1367168966 36.40.220.106 22 27  post r nil ((user TyL7Teqc))
+1367168967 36.40.220.106 18 83  get newest nil ((user TyL7Teqc))
+1367168967 36.40.220.106 22 2  get arc.png nil ((user TyL7Teqc))
+1367168967 36.40.220.106 16 1  get s.gif nil ((user TyL7Teqc))
+1367168968 36.40.220.106 13 8  get newest nil nil
+1367169010 36.40.220.106 13 11  get submit nil ((user TyL7Teqc))
+1367169010 36.40.220.106 9 1  get arc.png nil ((user TyL7Teqc))
+1367169011 36.40.220.106 16 10  get submit nil nil
+1367169022 36.40.220.106 54 17  post r nil ((user TyL7Teqc))
+1367169023 36.40.220.106 10 81  get newest nil ((user TyL7Teqc))
+1367169023 36.40.220.106 8 0  get arc.png nil ((user TyL7Teqc))
+1367169023 36.40.220.106 8 0  get s.gif nil ((user TyL7Teqc))
+1367169024 36.40.220.106 10 11  get newest nil nil
+1367169121 36.40.220.106 17 11  get submit nil ((user TyL7Teqc))
+1367169122 36.40.220.106 11 1  get arc.png nil ((user TyL7Teqc))
+1367169122 36.40.220.106 8 15  get submit nil nil
+1367169139 36.40.220.106 30 21  post r nil ((user TyL7Teqc))
+1367169139 36.40.220.106 18 69  get newest nil ((user TyL7Teqc))
+1367169140 36.40.220.106 30 1  get arc.png nil ((user TyL7Teqc))
+1367169140 36.40.220.106 11 1  get s.gif nil ((user TyL7Teqc))
+1367169140 36.40.220.106 7 9  get newest nil nil
+1367169146 36.40.220.106 31 13  get  nil nil
+1367169146 36.40.220.106 15 1  get news.css nil nil
+1367169147 36.40.220.106 8 0  get arc.png nil nil
+1367169147 36.40.220.106 30 0  get s.gif nil nil
+1367169147 36.40.220.106 25 1  get grayarrow.gif nil nil
+1367169147 36.40.220.106 7 1  get  nil nil
+1367169154 36.40.220.106 25 8  get vote (for 4) nil
+1367169155 36.40.220.106 25 1  get favicon.ico nil nil
+1367169156 36.40.220.106 7 1  get  nil nil
+1367169164 36.40.220.106 7 1  get  nil nil
+1367170220 36.40.220.106 11 11  get  nil nil
+1367170221 36.40.220.106 7 1  get news.css nil nil
+1367170222 36.40.220.106 36 1  get arc.png nil nil
+1367170222 36.40.220.106 10 0  get s.gif nil nil
+1367170222 36.40.220.106 19 11  get grayarrow.gif nil nil
+1367170222 36.40.220.106 11 1  get  nil nil
+1367170232 36.40.220.106 20 1  get  nil nil
+1367170570 218.30.116.97 9 8  get  nil nil
+1367174311 36.40.220.106 10 87  get  nil ((user TyL7Teqc))
+1367174311 36.40.220.106 13 1  get arc.png nil ((user TyL7Teqc))
+1367174311 36.40.220.106 11 1  get s.gif nil ((user TyL7Teqc))
+1367174312 36.40.220.106 13 15  get  nil nil
+1367174381 36.40.220.106 30 46  get item (id 1) ((user TyL7Teqc))
+1367174381 36.40.220.106 12 0  get arc.png nil ((user TyL7Teqc))
+1367174382 36.40.220.106 18 1  get s.gif nil ((user TyL7Teqc))
+1367174382 36.40.220.106 15 22  get item (id 1) nil
+1367174387 36.40.220.106 24 31  post r nil ((user TyL7Teqc))
+1367174387 36.40.220.106 31 38  get item (id 1) ((user TyL7Teqc))
+1367174387 36.40.220.106 20 1  get arc.png nil ((user TyL7Teqc))
+1367174387 36.40.220.106 11 1  get s.gif nil ((user TyL7Teqc))
+1367174388 36.40.220.106 12 28  get item (id 1) nil
+1367174389 36.40.220.106 12 78  get news nil ((user TyL7Teqc))
+1367174390 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367174390 36.40.220.106 36 0  get arc.png nil ((user TyL7Teqc))
+1367174390 36.40.220.106 7 1  get news nil nil
+1367174507 36.40.220.106 10 9  get submit nil ((user TyL7Teqc))
+1367174507 36.40.220.106 12 0  get arc.png nil ((user TyL7Teqc))
+1367174508 36.40.220.106 15 8  get submit nil nil
+1367174515 36.40.220.106 34 15  post r nil ((user TyL7Teqc))
+1367174515 36.40.220.106 12 98  get newest nil ((user TyL7Teqc))
+1367174516 36.40.220.106 8 0  get arc.png nil ((user TyL7Teqc))
+1367174516 36.40.220.106 9 1  get s.gif nil ((user TyL7Teqc))
+1367174516 36.40.220.106 29 41  get newest nil nil
+1367174517 36.40.220.106 22 18  get submit nil ((user TyL7Teqc))
+1367174517 36.40.220.106 18 2  get arc.png nil ((user TyL7Teqc))
+1367174518 36.40.220.106 13 9  get submit nil nil
+1367174536 36.40.220.106 25 22  post r nil ((user TyL7Teqc))
+1367174536 36.40.220.106 19 99  get newest nil ((user TyL7Teqc))
+1367174536 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367174536 36.40.220.106 21 1  get arc.png nil ((user TyL7Teqc))
+1367174537 36.40.220.106 8 1  get newest nil nil
+1367174568 36.40.220.106 29 14  get submit nil ((user TyL7Teqc))
+1367174568 36.40.220.106 10 0  get arc.png nil ((user TyL7Teqc))
+1367174568 36.40.220.106 12 10  get submit nil nil
+1367174583 36.40.220.106 19 13  post r nil ((user TyL7Teqc))
+1367174583 36.40.220.106 14 104  get newest nil ((user TyL7Teqc))
+1367174583 36.40.220.106 26 0  get arc.png nil ((user TyL7Teqc))
+1367174583 36.40.220.106 19 0  get s.gif nil ((user TyL7Teqc))
+1367174584 36.40.220.106 9 46  get newest nil nil
+1367174595 36.40.220.106 17 11  get submit nil ((user TyL7Teqc))
+1367174595 36.40.220.106 32 8  get arc.png nil ((user TyL7Teqc))
+1367174596 36.40.220.106 10 10  get submit nil nil
+1367174601 36.40.220.106 23 21  post r nil ((user TyL7Teqc))
+1367174601 36.40.220.106 20 126  get newest nil ((user TyL7Teqc))
+1367174601 36.40.220.106 8 1  get arc.png nil ((user TyL7Teqc))
+1367174601 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367174602 36.40.220.106 10 1  get newest nil nil
+1367174615 36.40.220.106 11 8  get submit nil ((user TyL7Teqc))
+1367174615 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367174616 36.40.220.106 41 8  get submit nil nil
+1367174625 36.40.220.106 20 18  post r nil ((user TyL7Teqc))
+1367174625 36.40.220.106 19 127  get newest nil ((user TyL7Teqc))
+1367174625 36.40.220.106 9 0  get arc.png nil ((user TyL7Teqc))
+1367174625 36.40.220.106 9 1  get s.gif nil ((user TyL7Teqc))
+1367174626 36.40.220.106 8 14  get newest nil nil
+1367174669 36.40.220.106 15 9  get submit nil ((user TyL7Teqc))
+1367174669 36.40.220.106 12 1  get arc.png nil ((user TyL7Teqc))
+1367174670 36.40.220.106 33 12  get submit nil nil
+1367174718 36.40.220.106 31 30  post r nil ((user TyL7Teqc))
+1367174718 36.40.220.106 10 185  get newest nil ((user TyL7Teqc))
+1367174719 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367174719 36.40.220.106 11 1  get s.gif nil ((user TyL7Teqc))
+1367174720 36.40.220.106 17 19  get newest nil nil
+1367174741 36.40.220.106 10 8  get submit nil ((user TyL7Teqc))
+1367174743 36.40.220.106 31 0  get arc.png nil ((user TyL7Teqc))
+1367174744 36.40.220.106 28 11  get submit nil nil
+1367174771 36.40.220.106 21 18  post r nil ((user TyL7Teqc))
+1367174771 36.40.220.106 18 165  get newest nil ((user TyL7Teqc))
+1367174771 36.40.220.106 11 1  get s.gif nil ((user TyL7Teqc))
+1367174772 36.40.220.106 17 0  get arc.png nil ((user TyL7Teqc))
+1367174772 36.40.220.106 18 17  get newest nil nil
+1367174787 36.40.220.106 9 8  get submit nil ((user TyL7Teqc))
+1367174788 36.40.220.106 25 1  get arc.png nil ((user TyL7Teqc))
+1367174790 36.40.220.106 14 12  get submit nil nil
+1367174812 36.40.220.106 34 29  post r nil ((user TyL7Teqc))
+1367174812 36.40.220.106 15 164  get newest nil ((user TyL7Teqc))
+1367174813 36.40.220.106 20 1  get s.gif nil ((user TyL7Teqc))
+1367174814 36.40.220.106 9 0  get arc.png nil ((user TyL7Teqc))
+1367174814 36.40.220.106 9 16  get newest nil nil
+1367174851 36.40.220.106 21 8  get submit nil ((user TyL7Teqc))
+1367174852 36.40.220.106 9 1  get arc.png nil ((user TyL7Teqc))
+1367174852 36.40.220.106 11 10  get submit nil nil
+1367174856 36.40.220.106 26 23  post r nil ((user TyL7Teqc))
+1367174857 36.40.220.106 15 194  get newest nil ((user TyL7Teqc))
+1367174858 36.40.220.106 23 1  get arc.png nil ((user TyL7Teqc))
+1367174858 36.40.220.106 20 1  get s.gif nil ((user TyL7Teqc))
+1367174860 36.40.220.106 9 36  get newest nil nil
+1367174903 36.40.220.106 17 8  get submit nil ((user TyL7Teqc))
+1367174904 36.40.220.106 9 1  get arc.png nil ((user TyL7Teqc))
+1367174904 36.40.220.106 14 12  get submit nil nil
+1367174921 36.40.220.106 22 19  post r nil ((user TyL7Teqc))
+1367174923 36.40.220.106 15 208  get newest nil ((user TyL7Teqc))
+1367174923 36.40.220.106 8 1  get arc.png nil ((user TyL7Teqc))
+1367174924 36.40.220.106 28 1  get s.gif nil ((user TyL7Teqc))
+1367174924 36.40.220.106 23 19  get newest nil nil
+1367174955 36.40.220.106 18 22  get threads (id liuhang0077) ((user TyL7Teqc))
+1367174956 36.40.220.106 20 1  get arc.png nil ((user TyL7Teqc))
+1367174957 36.40.220.106 22 1  get s.gif nil ((user TyL7Teqc))
+1367174957 36.40.220.106 16 13  get threads (id liuhang0077) nil
+1367174958 36.40.220.106 19 17  get reply (id 8) ((user TyL7Teqc))
+1367174959 36.40.220.106 26 1  get arc.png nil ((user TyL7Teqc))
+1367174960 36.40.220.106 20 0  get s.gif nil ((user TyL7Teqc))
+1367174960 36.40.220.106 11 8  get reply (id 8) nil
+1367175437 36.40.220.106 15 197  get  nil ((user TyL7Teqc))
+1367175437 36.40.220.106 18 12  get arc.png nil ((user TyL7Teqc))
+1367175437 36.40.220.106 21 0  get s.gif nil ((user TyL7Teqc))
+1367175440 36.40.220.106 33 61  get  nil nil
+1367175453 36.40.220.106 28 166  get  nil ((user TyL7Teqc))
+1367175454 36.40.220.106 18 1  get arc.png nil ((user TyL7Teqc))
+1367175459 36.40.220.106 16 0  get s.gif nil ((user TyL7Teqc))
+1367175461 36.40.220.106 8 1  get  nil nil
+1367175665 36.40.220.106 57 13  get submit nil ((user TyL7Teqc))
+1367175667 36.40.220.106 13 1  get arc.png nil ((user TyL7Teqc))
+1367175667 36.40.220.106 20 23  get submit nil nil
+1367175672 36.40.220.106 25 26  post r nil ((user TyL7Teqc))
+1367175673 36.40.220.106 10 222  get newest nil ((user TyL7Teqc))
+1367175673 36.40.220.106 18 1  get arc.png nil ((user TyL7Teqc))
+1367175680 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367175680 36.40.220.106 26 53  get newest nil nil
+1367175696 36.40.220.106 9 22  get  nil nil
+1367175708 36.40.220.106 9 1  get news.css nil nil
+1367175711 36.40.220.106 19 1  get s.gif nil nil
+1367175711 36.40.220.106 11 1  get grayarrow.gif nil nil
+1367175723 36.40.220.106 17 1  get arc.png nil nil
+1367175726 36.40.220.106 8 1  get  nil nil
+1367175857 36.40.220.106 15 27  get  nil nil
+1367175857 36.40.220.106 7 1  get arc.png nil nil
+1367175858 36.40.220.106 7 1  get s.gif nil nil
+1367175858 36.40.220.106 20 1  get grayarrow.gif nil nil
+1367175858 36.40.220.106 14 2  get  nil nil
+1367175987 36.40.220.106 13 28  get  nil nil
+1367175987 36.40.220.106 26 1  get news.css nil nil
+1367175988 36.40.220.106 9 1  get arc.png nil nil
+1367175988 36.40.220.106 32 0  get s.gif nil nil
+1367175988 36.40.220.106 23 0  get grayarrow.gif nil nil
+1367175988 36.40.220.106 22 2  get  nil nil
+1367176361 36.40.220.106 15 234  get  nil ((user TyL7Teqc))
+1367176361 36.40.220.106 9 0  get arc.png nil ((user TyL7Teqc))
+1367176361 36.40.220.106 25 2  get s.gif nil ((user TyL7Teqc))
+1367176361 36.40.220.106 21 22  get  nil nil
+1367176397 36.40.220.106 38 182  get  nil ((user TyL7Teqc))
+1367176397 36.40.220.106 13 1  get news.css nil ((user TyL7Teqc))
+1367176397 36.40.220.106 11 1  get arc.png nil ((user TyL7Teqc))
+1367176397 36.40.220.106 10 0  get s.gif nil ((user TyL7Teqc))
+1367176398 36.40.220.106 7 1  get  nil nil
+1367176402 36.40.220.106 9 225  get  nil ((user TyL7Teqc))
+1367176403 36.40.220.106 11 0  get news.css nil ((user TyL7Teqc))
+1367176403 36.40.220.106 9 0  get s.gif nil ((user TyL7Teqc))
+1367176403 36.40.220.106 26 0  get arc.png nil ((user TyL7Teqc))
+1367176403 36.40.220.106 8 1  get  nil nil
+1367176466 36.40.220.106 12 11  get submit nil ((user TyL7Teqc))
+1367176467 36.40.220.106 8 1  get arc.png nil ((user TyL7Teqc))
+1367176467 36.40.220.106 9 7  get submit nil nil
+1367176472 36.40.220.106 17 47  post r nil ((user TyL7Teqc))
+1367176473 36.40.220.106 15 213  get newest nil ((user TyL7Teqc))
+1367176473 36.40.220.106 12 1  get arc.png nil ((user TyL7Teqc))
+1367176474 36.40.220.106 18 1  get s.gif nil ((user TyL7Teqc))
+1367176474 36.40.220.106 11 28  get newest nil nil
+1367176475 36.40.220.106 15 45  get edit (id 20) ((user TyL7Teqc))
+1367176476 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367176476 36.40.220.106 21 1  get s.gif nil ((user TyL7Teqc))
+1367176476 36.40.220.106 19 24  get edit (id 20) nil
+1367176494 36.40.220.106 21 42  post x nil ((user TyL7Teqc))
+1367176495 36.40.220.106 14 1  get arc.png nil ((user TyL7Teqc))
+1367176495 36.40.220.106 9 1  get s.gif nil ((user TyL7Teqc))
+1367176495 36.40.220.106 9 1  get x nil nil
+1367176497 36.40.220.106 19 69  post x nil ((user TyL7Teqc))
+1367176497 36.40.220.106 9 0  get s.gif nil ((user TyL7Teqc))
+1367176497 36.40.220.106 34 0  get arc.png nil ((user TyL7Teqc))
+1367176497 36.40.220.106 15 0  get x nil nil
+1367176499 36.40.220.106 14 204  get news nil ((user TyL7Teqc))
+1367176499 36.40.220.106 9 1  get arc.png nil ((user TyL7Teqc))
+1367176499 36.40.220.106 8 0  get s.gif nil ((user TyL7Teqc))
+1367176499 36.40.220.106 16 25  get news nil nil
+1367176553 36.40.220.106 15 270  get news nil ((user TyL7Teqc))
+1367176553 36.40.220.106 19 1  get news.css nil ((user TyL7Teqc))
+1367176554 36.40.220.106 75 1  get arc.png nil ((user TyL7Teqc))
+1367176554 36.40.220.106 9 5  get s.gif nil ((user TyL7Teqc))
+1367176554 36.40.220.106 10 24  get news nil nil
+1367176575 36.40.220.106 11 1  get  nil nil
+1367176575 36.40.220.106 27 2  get news.css nil nil
+1367176575 36.40.220.106 7 1  get arc.png nil nil
+1367176576 36.40.220.106 23 2  get s.gif nil nil
+1367176576 36.40.220.106 22 1  get grayarrow.gif nil nil
+1367176576 36.40.220.106 11 1  get  nil nil
+1367176618 36.40.220.106 34 11  get x  nil
+1367176619 36.40.220.106 13 4  get favicon.ico nil nil
+1367176768 36.40.220.106 10 2  get welcome nil ((user TyL7Teqc))
+1367176773 36.40.220.106 10 32  get news nil nil
+1367176777 36.40.220.106 9 197  get news nil ((user TyL7Teqc))
+1367176777 36.40.220.106 9 1  get arc.png nil ((user TyL7Teqc))
+1367176777 36.40.220.106 10 0  get s.gif nil ((user TyL7Teqc))
+1367176777 36.40.220.106 16 1  get news nil nil
+1367176789 36.40.220.106 19 1  get welcome nil ((user TyL7Teqc))
+1367177222 36.40.220.106 19 3  get welcome nil ((user TyL7Teqc))
+1367177224 36.40.220.106 10 1  get welcome nil ((user TyL7Teqc))
+1367177226 36.40.220.106 9 298  get  nil ((user TyL7Teqc))
+1367177226 36.40.220.106 34 1  get s.gif nil ((user TyL7Teqc))
+1367177226 36.40.220.106 49 1  get arc.png nil ((user TyL7Teqc))
+1367177227 36.40.220.106 11 19  get  nil nil
+1367177243 36.40.220.106 14 206  get  nil ((user TyL7Teqc))
+1367177243 36.40.220.106 21 1  get arc.png nil ((user TyL7Teqc))
+1367177243 36.40.220.106 15 0  get s.gif nil ((user TyL7Teqc))
+1367177244 36.40.220.106 8 1  get  nil nil
+1367177246 36.40.220.106 14 247  get  nil ((user TyL7Teqc))
+1367177246 36.40.220.106 14 1  get arc.png nil ((user TyL7Teqc))
+1367177246 36.40.220.106 23 1  get s.gif nil ((user TyL7Teqc))
+1367177246 36.40.220.106 14 1  get  nil nil
+1367177248 36.40.220.106 17 248  get  nil ((user TyL7Teqc))
+1367177248 36.40.220.106 25 1  get news.css nil ((user TyL7Teqc))
+1367177248 36.40.220.106 38 1  get arc.png nil ((user TyL7Teqc))
+1367177248 36.40.220.106 22 0  get s.gif nil ((user TyL7Teqc))
+1367177249 36.40.220.106 11 1  get  nil nil
+1367177383 66.249.80.53 8 32  get  nil nil
+1367177387 36.40.220.106 10 232  get  nil ((user TyL7Teqc))
+1367177387 36.40.220.106 9 1  get news.css nil ((user TyL7Teqc))
+1367177388 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367177388 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367177388 36.40.220.106 15 1  get  nil nil
+1367177525 36.40.220.106 14 31  get  nil nil
+1367177526 36.40.220.106 16 0  get arc.png nil nil
+1367177526 36.40.220.106 27 1  get grayarrow.gif nil nil
+1367177526 36.40.220.106 43 1  get s.gif nil nil
+1367177526 36.40.220.106 10 2  get  nil nil
+1367177536 36.40.220.106 7 1  get  nil nil
+1367177551 36.40.220.106 16 6  get newcomments nil nil
+1367177551 36.40.220.106 23 1  get arc.png nil nil
+1367177551 36.40.220.106 19 1  get s.gif nil nil
+1367177551 36.40.220.106 8 0  get grayarrow.gif nil nil
+1367177552 36.40.220.106 13 1  get newcomments nil nil
+1367177554 36.40.220.106 11 3  get leaders nil nil
+1367177554 36.40.220.106 12 0  get arc.png nil nil
+1367177554 36.40.220.106 8 0  get s.gif nil nil
+1367177554 36.40.220.106 7 1  get leaders nil nil
+1367177556 36.40.220.106 11 1  get news nil nil
+1367177556 36.40.220.106 39 0  get s.gif nil nil
+1367177556 36.40.220.106 9 11  get grayarrow.gif nil nil
+1367177556 36.40.220.106 53 1  get arc.png nil nil
+1367177556 36.40.220.106 14 2  get news nil nil
+1367177714 66.249.80.53 10 21  get  nil nil
+1367177766 36.40.220.106 11 221  get newest nil ((user TyL7Teqc))
+1367177767 36.40.220.106 25 1  get news.css nil ((user TyL7Teqc))
+1367177767 36.40.220.106 12 7  get arc.png nil ((user TyL7Teqc))
+1367177767 36.40.220.106 15 1  get s.gif nil ((user TyL7Teqc))
+1367177767 36.40.220.106 13 41  get newest nil nil
+1367177820 36.40.220.106 15 200  get  nil ((user TyL7Teqc))
+1367177820 36.40.220.106 8 1  get arc.png nil ((user TyL7Teqc))
+1367177820 36.40.220.106 8 1  get s.gif nil ((user TyL7Teqc))
+1367177821 36.40.220.106 8 27  get  nil nil
+1367177824 36.40.220.106 28 17  get submit nil ((user TyL7Teqc))
+1367177824 36.40.220.106 16 1  get arc.png nil ((user TyL7Teqc))
+1367177824 36.40.220.106 14 11  get submit nil nil
+1367177829 36.40.220.106 24 22  post r nil ((user TyL7Teqc))
+1367177829 36.40.220.106 21 215  get newest nil ((user TyL7Teqc))
+1367177829 36.40.220.106 21 1  get arc.png nil ((user TyL7Teqc))
+1367177829 36.40.220.106 15 1  get s.gif nil ((user TyL7Teqc))
+1367177830 36.40.220.106 14 36  get newest nil nil
+1367178097 66.249.80.53 6 1  get google0b12b48bdb0f2d85.html nil nil
+1367178105 36.40.220.106 23 260  get  nil ((user TyL7Teqc))
+1367178106 36.40.220.106 22 0  get arc.png nil ((user TyL7Teqc))
+1367178106 36.40.220.106 13 1  get s.gif nil ((user TyL7Teqc))
+1367178106 36.40.220.106 7 19  get  nil nil
+1367178108 36.40.220.106 16 238  get  nil ((user TyL7Teqc))
+1367178108 36.40.220.106 8 1  get arc.png nil ((user TyL7Teqc))
+1367178108 36.40.220.106 9 1  get s.gif nil ((user TyL7Teqc))
+1367178108 36.40.220.106 22 1  get  nil nil
+1367178133 36.40.220.106 14 211  get  nil ((user TyL7Teqc))
+1367178133 36.40.220.106 10 1  get arc.png nil ((user TyL7Teqc))
+1367178133 36.40.220.106 24 1  get s.gif nil ((user TyL7Teqc))
+1367178134 36.40.220.106 12 2  get  nil nil
+1367178139 36.40.220.106 8 1  get  nil nil
+1367178140 36.40.220.106 13 1  get arc.png nil nil
+1367178140 36.40.220.106 7 1  get s.gif nil nil
+1367178140 36.40.220.106 9 1  get grayarrow.gif nil nil
+1367178140 36.40.220.106 12 1  get  nil nil
+1367178325 36.40.220.106 13 1  get css/bootstrap.min.css nil ((user TyL7Teqc))
+1367178325 36.40.220.106 11 1  get assets/css/bootstrap-responsive.css nil ((user TyL7Teqc))
+1367178325 36.40.220.106 12 1  get css/main.css nil ((user TyL7Teqc))
+1367178326 36.40.220.106 14 1  get js/bootstrap.min.js nil ((user TyL7Teqc))
+1367178326 36.40.220.106 11 1  get img/logo.jpg nil ((user TyL7Teqc))
+1367178327 36.40.220.106 19 231  get  nil ((user TyL7Teqc))
+1367178328 36.40.220.106 32 1  get arc.png nil ((user TyL7Teqc))
+1367178328 36.40.220.106 23 0  get s.gif nil ((user TyL7Teqc))
+1367178328 36.40.220.106 8 51  get  nil nil
+1367178387 36.40.220.106 39 211  get  nil ((user TyL7Teqc))
+1367178388 36.40.220.106 16 1  get news.css nil ((user TyL7Teqc))
+1367178388 36.40.220.106 15 1  get arc.png nil ((user TyL7Teqc))
+1367178388 36.40.220.106 17 1  get s.gif nil ((user TyL7Teqc))
+1367178388 36.40.220.106 7 36  get  nil nil
+1367178533 36.40.220.106, 74.125.191.85 15 200  get  nil ((user TyL7Teqc))
+1367178533 36.40.220.106, 74.125.191.85 12 1  get news.css nil ((user TyL7Teqc))
+1367178533 36.40.220.106, 74.125.191.85 8 1  get arc.png nil ((user TyL7Teqc))
+1367178533 36.40.220.106, 74.125.191.86 25 1  get s.gif nil ((user TyL7Teqc))
+1367178534 36.40.220.106, 74.125.191.86 8 94  get  nil nil
+1367178559 36.40.220.106, 74.125.191.86 9 219  get  nil ((user TyL7Teqc))
+1367178560 36.40.220.106, 74.125.191.86 10 1  get  nil nil
+1367178579 114.80.119.152, 74.125.16.93 12 1  get  nil nil
+1367178607 122.10.36.33, 74.125.191.86 11 2  get  nil nil
+1367178607 60.199.178.125, 74.125.16.93 11 2  get  nil nil
+1367178607 221.228.228.151, 74.125.16.90 9 4  get  nil nil
+1367178607 115.238.231.176, 74.125.16.90 39 8  get  nil nil
+1367178607 222.77.187.24, 74.125.16.89 12 12  get  nil nil
+1367178607 220.179.123.205, 74.125.16.81 32 13  get  nil nil
+1367178607 120.209.138.81, 74.125.16.93 135 12  get  nil nil
+1367178607 122.97.253.49, 74.125.16.85 284 65  get  nil nil
+1367178607 118.244.3.223, 74.125.16.93 278 87  get  nil nil
+1367178607 122.226.120.9, 74.125.16.95 292 88  get  nil nil
+1367178607 221.235.188.231, 74.125.16.94 302 79  get  nil nil
+1367178607 183.61.5.2, 74.125.16.91 287 81  get  nil nil
+1367178607 222.76.214.57, 74.125.16.87 335 57  get  nil nil
+1367178607 112.82.223.3, 74.125.16.94 338 51  get  nil nil
+1367178607 106.187.46.210, 74.125.16.90 313 80  get  nil nil
+1367178607 219.156.123.142, 74.125.16.93 335 84  get  nil nil
+1367178607 119.97.149.194, 74.125.16.84 349 72  get  nil nil
+1367178607 119.191.58.4, 74.125.16.80 352 39  get  nil nil
+1367178607 36.249.126.13, 74.125.16.83 339 90  get  nil nil
+1367178607 61.155.136.46, 74.125.16.80 376 52  get  nil nil
+1367178607 222.173.162.244, 74.125.16.88 335 77  get  nil nil
+1367178607 61.154.116.165, 74.125.16.92 339 75  get  nil nil
+1367178607 42.51.151.130, 74.125.16.82 406 39  get  nil nil
+1367178607 42.51.151.131, 74.125.16.86 397 48  get  nil nil
+1367178607 27.54.247.9, 74.125.191.91 378 38  get  nil nil
+1367178607 61.160.249.241, 74.125.16.92 427 45  get  nil nil
+1367178607 110.188.0.173, 74.125.16.83 372 33  get  nil nil
+1367178607 60.28.26.81, 74.125.16.82 399 17  get  nil nil
+1367178607 116.55.242.142, 74.125.16.95 400 33  get  nil nil
+1367178607 221.203.3.140, 74.125.16.81 418 10  get  nil nil
+1367178607 218.61.195.216, 74.125.16.84 417 6  get  nil nil
+1367178607 210.14.130.69, 74.125.16.88 412 11  get  nil nil
+1367178607 60.10.6.150, 74.125.16.85 418 31  get  nil nil
+1367178607 122.143.29.13, 74.125.16.86 423 26  get  nil nil
+1367178607 103.10.84.124, 74.125.16.87 423 17  get  nil nil
+1367178607 119.97.149.195, 74.125.16.91 403 25  get  nil nil
+1367178607 61.152.221.169, 74.125.16.92 407 15  get  nil nil
+1367178607 202.98.23.116, 74.125.16.210 446 25  get  nil nil
+1367178607 221.208.198.3, 74.125.16.89 442 23  get  nil nil
+1367178607 61.135.199.243, 74.125.16.90 449 9  get  nil nil
+1367178607 199.91.99.9, 74.125.186.19 269 2  get  nil nil
+1367178607 210.51.24.101, 74.125.16.81 414 22  get  nil nil
+1367178607 122.136.32.5, 74.125.16.93 448 23  get  nil nil
+1367178607 202.85.216.151, 74.125.16.81 191 0  get  nil nil
+1367178607 60.6.200.146, 74.125.16.87 434 8  get  nil nil
+1367178607 60.221.255.145, 74.125.16.93 65 1  get  nil nil
+1367178607 124.232.137.204, 74.125.16.94 13 18  get  nil nil
+1367178607 222.189.237.137, 74.125.16.93 233 1  get  nil nil
+1367178607 14.17.68.64, 74.125.16.88 7 1  get  nil nil
+1367178608 176.58.106.39, 74.125.180.22 6 1  get  nil nil
+1367178608 210.14.136.146, 74.125.16.210 21 2  get  nil nil
+1367178608 210.51.165.57, 74.125.16.81 12 1  get  nil nil
+1367178612 60.173.10.139, 74.125.16.81 7 1  get  nil nil
+1367178612 222.76.219.7, 74.125.16.81 8 2  get  nil nil
+1367178616 123.249.19.90, 74.125.16.81 7 1  get  nil nil
+1367178660 36.40.220.106, 74.125.191.91 8 225  get  nil ((user TyL7Teqc))
+1367178661 36.40.220.106, 74.125.191.91 8 21  get  nil nil
+1367178668 36.40.220.106, 74.125.191.91 15 1  get  nil nil
+1367178669 36.40.220.106, 74.125.191.91 14 0  get grayarrow.gif nil nil
+1367178669 36.40.220.106, 74.125.191.91 15 2  get  nil nil
+1367178672 36.40.220.106, 74.125.191.91 32 3  get newcomments nil nil
+1367178673 36.40.220.106, 74.125.191.91 11 1  get newcomments nil nil
+1367178674 36.40.220.106, 74.125.191.91 10 2  get leaders nil nil
+1367178675 36.40.220.106, 74.125.191.91 18 1  get leaders nil nil
+1367178676 36.40.220.106, 74.125.191.91 37 3  get news nil nil
+1367178676 36.40.220.106, 74.125.191.91 15 1  get news nil nil
+1367178679 36.40.220.106, 74.125.191.91 20 9  get x  nil
+1367178679 36.40.220.106, 74.125.191.91 18 1  get favicon.ico nil nil
+1367178681 36.40.220.106, 74.125.191.91 14 1  get news nil nil
+1367178698 36.40.220.106, 74.125.191.91 12 1  get news nil nil
+1367178699 36.40.220.106, 74.125.191.91 15 1  get news nil nil
+1367178700 36.40.220.106, 74.125.191.91 10 2  get news nil nil
+1367178700 36.40.220.106, 74.125.191.91 10 1  get news nil nil
+1367178701 36.40.220.106, 74.125.191.91 8 1  get news nil nil
+1367178705 36.40.220.106, 74.125.191.91 8 1  get news nil nil
+1367178705 36.40.220.106, 74.125.191.91 22 2  get news nil nil
+1367178706 36.40.220.106, 74.125.191.91 12 2  get news nil nil
+1367178869 36.40.220.106, 74.125.191.91 17 48  get  nil nil
+1367179007 36.40.220.106, 74.125.191.84 19 8  get x  nil
+1367179025 36.40.220.106, 74.125.191.84 25 17  post y nil nil
+1367179025 36.40.220.106, 74.125.191.84 13 11  get x  nil
+1367179034 36.40.220.106, 74.125.191.84 25 24  post y nil nil
+1367179035 36.40.220.106, 74.125.191.84 17 221  get news nil ((user TyL7Teqc))
+1367179048 36.40.220.106, 74.125.191.84 19 36  get user (id liuhang0077) ((user TyL7Teqc))
+1367179069 36.40.220.106, 74.125.191.84 35 43  post x nil ((user TyL7Teqc))
+1367179073 36.40.220.106, 74.125.191.84 14 2  get welcome nil ((user TyL7Teqc))
+1367179081 36.40.220.106, 74.125.191.84 9 245  get news nil ((user TyL7Teqc))
+1367180638 66.249.76.197, 74.125.176.19 10 1  get robots.txt nil nil
+1367180638 66.249.76.197, 74.125.19.19 9 29  get  nil nil
+1367180706 66.249.76.197, 74.125.176.19 11 5  get news nil nil
+1367180763 66.249.76.197, 74.125.176.19 7 9  get submit nil nil
+1367180808 66.249.76.197, 74.125.19.19 9 1  get grayarrow.gif nil nil
+1367180825 66.249.76.197, 74.125.19.19 11 25  get newest nil nil
+1367180884 66.249.76.197, 74.125.176.19 16 7  get leaders nil nil
+1367180939 66.249.76.197, 74.125.176.19 32 4  get newcomments nil nil
+1367180946 66.249.76.197, 74.125.176.19 11 17  get item (id 9) nil
+1367180966 66.249.76.197, 74.125.176.19 7 16  get item (id 2) nil
+1367180995 66.249.76.197, 74.125.176.19 7 13  get item (id 3) nil
+1367181003 66.249.76.197, 74.125.176.19 12 24  get item (id 6) nil
+1367181029 66.249.76.197, 74.125.176.19 9 51  get item (id 4) nil
+1367181050 66.249.76.197, 74.125.176.19 7 16  get item (id 1) nil
+1367181066 66.249.76.197, 74.125.176.19 17 22  get item (id 7) nil
+1367181123 66.249.76.197, 74.125.176.19 13 15  get item (id 5) nil
+1367181133 66.249.76.197, 74.125.176.19 8 18  get item (id 12) nil
+1367181146 66.249.76.197, 74.125.176.19 7 14  get item (id 10) nil
+1367181164 66.249.76.197, 74.125.176.19 10 19  get item (id 14) nil
+1367181185 66.249.76.197, 74.125.176.19 6 16  get item (id 19) nil
+1367181235 66.249.76.197, 74.125.176.19 9 14  get item (id 15) nil
+1367181244 66.249.76.146, 74.125.176.19 8 36  get item (id 20) nil
+1367181259 66.249.76.146, 74.125.176.19 8 14  get item (id 18) nil
+1367181296 66.249.76.146, 74.125.176.19 25 15  get item (id 21) nil
+1367181306 66.249.76.146, 74.125.176.19 10 16  get item (id 17) nil
+1367181358 66.249.76.146, 74.125.176.19 10 13  get item (id 13) nil
+1367181678 66.249.76.146, 74.125.176.19 9 19  get item (id 16) nil
+1367182025 66.249.76.197, 74.125.176.19 10 13  get item (id 11) nil
+1367182370 66.249.76.197, 74.125.176.19 13 15  get x  nil
+1367182716 66.249.76.197, 74.125.19.19 9 47  get user (id liuhang0077) nil
+1367183061 66.249.76.197, 74.125.19.19 12 13  get vote (for 3) nil
+1367183407 66.249.76.197, 74.125.176.19 11 10  get vote (for 6) nil
+1367183752 66.249.76.197, 74.125.176.19 13 11  get vote (for 5) nil
+1367184098 66.249.76.197, 74.125.176.19 12 17  get vote (for 2) nil
+1367184443 66.249.76.197, 74.125.176.19 13 11  get vote (for 7) nil
+1367184608 66.249.76.197, 74.125.176.19 11 12  get vote (for 15) nil
+1367184789 66.249.76.197, 74.125.176.19 15 8  get vote (for 4) nil
+1367185146 66.249.76.197, 74.125.176.19 9 7  get vote (for 1) nil
+1367185481 66.249.76.197, 74.125.19.19 8 7  get vote (for 9) nil
+1367185826 66.249.76.197, 74.125.176.19 12 10  get vote (for 11) nil
+1367186183 66.249.76.197, 74.125.176.19 16 14  get vote (for 20) nil
+1367186523 66.249.76.197, 74.125.19.19 8 8  get vote (for 10) nil
+1367186863 66.249.76.197, 74.125.19.19 12 9  get vote (for 16) nil
+1367187109 66.249.76.197, 74.125.19.19 9 10  get vote (for 12) nil
+1367187554 66.249.76.197, 74.125.176.19 8 24  get vote (for 19) nil
+1367187637 66.249.76.197, 74.125.176.19 8 7  get vote (for 13) nil
+1367187637 66.249.76.197, 74.125.176.19 7 7  get vote (for 21) nil
+1367188240 66.249.76.197, 74.125.176.19 23 10  get vote (for 17) nil
+1367188245 66.249.76.197, 74.125.19.19 7 7  get vote (for 18) nil
+1367188546 66.249.76.197, 74.125.19.19 6 8  get vote (for 14) nil
+1367188821 66.249.76.197, 74.125.176.19 8 5  get forgotpw nil nil
+1367190026 66.249.76.92, 74.125.176.19 15 20  get item (id 8) nil
+1367192040 60.173.26.19 3 1  get ttp://114.80.155.202:8808/9262/ nil nil
+1367192437 66.249.76.92, 74.125.19.19 7 7  get x  nil
+1367193035 66.249.76.197, 74.125.176.19 7 7  get x  nil
+1367193284 66.249.76.197, 74.125.176.19 8 7  get x  nil
+1367193510 66.249.76.197, 74.125.176.19 13 9  get x  nil

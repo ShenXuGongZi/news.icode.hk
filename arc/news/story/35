@@ -1,0 +1,1 @@
+((text "") (score 1) (sockvotes 0) (votes ((1367232634 "36.40.220.106, 74.125.191.86" "liuhang0077" up 0))) (by "liuhang0077") (time 1367232634) (type story) (keys (nokill)) (title "进程（process）和线程（thread）是操作系统的基本概念，但是它们比较抽象，不容易掌握。") (id 35) (url "http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html") (ip "36.40.220.106, 74.125.191.86"))
